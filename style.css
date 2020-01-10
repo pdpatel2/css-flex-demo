@@ -1,0 +1,16 @@
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: palevioletred;
+  margin: 20px;
+}
+
+#main-container {
+  background-color: yellow;
+  display: flex;
+  flex-grow: 1
+}
+
+.special {
+  flex-grow: 2
+}
