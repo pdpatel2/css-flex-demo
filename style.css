@@ -1,16 +1,10 @@
 .box {
   width: 100px;
   height: 100px;
-  background-color: palevioletred;
+  background-color: #ff6666;
   margin: 20px;
 }
 
 #main-container {
-  background-color: yellow;
-  display: flex;
-  flex-grow: 1
-}
-
-.special {
-  flex-grow: 2
+  background-color: #003399;
 }
